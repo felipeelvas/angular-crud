@@ -1,19 +1,49 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "CANETA BIC",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "Notebook Mac Pro",
-            "price": 12000.89
-        },
-        {
-            "id": 3,
-            "name": "Samsung S20",
-            "price": 5000.89
-        }
-    ]
+  "products": [
+    {
+      "id": "2",
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": "3",
+      "name": "Samsung S20+ Ultra",
+      "price": "7520.89"
+    },
+    {
+      "id": "38d0",
+      "name": "Geladeira",
+      "price": "1989.99"
+    },
+    {
+      "id": "5580",
+      "name": "Papel Liso",
+      "price": "1"
+    },
+    {
+      "id": "cb3f",
+      "name": "Produto de Teste",
+      "price": "125.99"
+    },
+    {
+      "id": "85eb",
+      "name": "Teclado",
+      "price": "50.00"
+    },
+    {
+      "id": "8f61",
+      "name": "Lápis Preto",
+      "price": "2.50"
+    },
+    {
+      "id": "8b3f",
+      "name": "Caneta Bic Preta",
+      "price": "5.89"
+    },
+    {
+      "id": "5ec1",
+      "name": "Garrafa",
+      "price": "59.99"
+    }
+  ]
 }
