@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "1",
-      "name": "Caneta BIC Preta",
+      "name": "Caneta BIC",
       "price": 5.89
     },
     {
@@ -14,11 +14,6 @@
       "id": "3",
       "name": "Samsung S20+ Ultra",
       "price": "7520.89"
-    },
-    {
-      "id": "948f",
-      "name": "Lápis Preto Básico",
-      "price": "2.50"
     }
   ]
 }
