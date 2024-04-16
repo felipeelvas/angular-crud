@@ -1,0 +1,15 @@
+form{
+  display: flex;
+  flex-direction: column;
+}
+
+button{
+  margin: 20px 15px 0px 0px;
+  font-weight: bold;
+  line-height: 2.3em;
+}
+
+.warn{
+  background-color: orangered;
+  color: whitesmoke;
+}
