@@ -11,7 +11,6 @@ Este repositório contém uma aplicação Angular para cadastro de produtos, des
 - [Personalização](#personalização)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
-- [Contato](#contato)
 
 ## Recursos
 
@@ -32,8 +31,8 @@ Este repositório contém uma aplicação Angular para cadastro de produtos, des
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/your-username/product-registration-angular.git
-    cd product-registration-angular
+    git clone https://git@github.com:felipeelvas/angular-crud.git
+    cd angular-crud
     ```
 
 2. Instale as dependências:
@@ -83,14 +82,7 @@ Contribuições são bem-vindas! Siga estes passos para contribuir:
 5. Faça o push para a branch (`git push origin feature-branch`).
 6. Crie um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## Contato
-
-Para qualquer dúvida ou feedback, entre em contato pelo e-mail [your-email@example.com].
-
 ---
+## Licença
 
 Desenvolvido como parte de um curso na plataforma Cod3r. Confira os cursos em [Cod3r](https://www.cod3r.com.br/).
