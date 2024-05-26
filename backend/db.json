@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Caneta BIC",
-      "price": 5.89
+      "price": "2,99"
     },
     {
       "id": "2",
@@ -14,6 +14,11 @@
       "id": "3",
       "name": "Samsung S20+ Ultra",
       "price": "7520.89"
+    },
+    {
+      "id": "764e",
+      "name": "Caneta Vermelha",
+      "price": "2.00"
     }
   ]
 }
